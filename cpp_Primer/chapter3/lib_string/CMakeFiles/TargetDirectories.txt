@@ -1,0 +1,4 @@
+/Users/wanglei/Desktop/cs/cpp_Primer/chapter3/lib_string/CMakeFiles/rebuild_cache.dir
+/Users/wanglei/Desktop/cs/cpp_Primer/chapter3/lib_string/CMakeFiles/edit_cache.dir
+/Users/wanglei/Desktop/cs/cpp_Primer/chapter3/lib_string/CMakeFiles/main2.dir
+/Users/wanglei/Desktop/cs/cpp_Primer/chapter3/lib_string/CMakeFiles/main.dir
