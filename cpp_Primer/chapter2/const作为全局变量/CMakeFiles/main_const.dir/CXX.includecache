@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wanglei/Desktop/cs/cpp_Primer/chapter2/const作为全局变量/file1_const.cc
+
+/Users/wanglei/Desktop/cs/cpp_Primer/chapter2/const作为全局变量/file2_const.cc
+iostream
+-
+

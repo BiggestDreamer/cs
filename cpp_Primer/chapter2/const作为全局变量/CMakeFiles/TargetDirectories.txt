@@ -1,0 +1,4 @@
+/Users/wanglei/Desktop/cs/cpp_Primer/chapter2/const作为全局变量/CMakeFiles/rebuild_cache.dir
+/Users/wanglei/Desktop/cs/cpp_Primer/chapter2/const作为全局变量/CMakeFiles/edit_cache.dir
+/Users/wanglei/Desktop/cs/cpp_Primer/chapter2/const作为全局变量/CMakeFiles/main_const.dir
+/Users/wanglei/Desktop/cs/cpp_Primer/chapter2/const作为全局变量/CMakeFiles/main.dir

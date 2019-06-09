@@ -1,0 +1,9 @@
+CMAKE_MINIMUM_REQUIRED(VERSION 2.6)
+
+SET(SRC_LIST file1.cc file2.cc)
+SET(SRC_LIST2 file1_const.cc file2_const.cc)
+
+PROJECT(CONST)
+ADD_EXECUTABLE(main ${SRC_LIST})
+ADD_EXECUTABLE(main_const ${SRC_LIST2})
+
