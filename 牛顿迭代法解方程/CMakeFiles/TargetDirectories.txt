@@ -1,0 +1,3 @@
+/Users/wanglei/Desktop/cs/牛顿迭代法解方程/CMakeFiles/rebuild_cache.dir
+/Users/wanglei/Desktop/cs/牛顿迭代法解方程/CMakeFiles/edit_cache.dir
+/Users/wanglei/Desktop/cs/牛顿迭代法解方程/CMakeFiles/main.dir
