@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wanglei/Desktop/cs/cpp_Primer/Animal.cc
+Animal.h
+/Users/wanglei/Desktop/cs/cpp_Primer/Animal.h
+
+/Users/wanglei/Desktop/cs/cpp_Primer/Animal.h
+iostream
+-
+
+/Users/wanglei/Desktop/cs/cpp_Primer/main.cc
+iostream
+-
+Animal.h
+/Users/wanglei/Desktop/cs/cpp_Primer/Animal.h
+
