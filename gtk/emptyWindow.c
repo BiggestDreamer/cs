@@ -1,5 +1,6 @@
 #include <gtk/gtk.h>
 
+//i am the content other added
 int main(int argc, char* argv[]){
 	gtk_init(&argc, &argv);
 	GtkWidget *window = gtk_window_new(GTK_WINDOW_TOPLEVEL);
